@@ -5,3 +5,7 @@ Here is my small tech world you have dived in 🏊‍♂️. Learning and explor
 </a>
 <a href="https://twitter.com/anurag01a/"> <img src=http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png width=35px/> 
 </a>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Anurag-0-1-A&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-0-1-A&langs_count=5&theme=tokyonight)]()
+
