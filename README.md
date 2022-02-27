@@ -10,3 +10,5 @@ Here is my small tech world you have dived in 🏊‍♂️. Learning and explor
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-0-1-A&langs_count=5&theme=tokyonight)]()
 
 ![](https://komarev.com/ghpvc/?username=Anurag-0-1-A&color=4287f5&style=plastic&label=Profile+Views)
+
+
