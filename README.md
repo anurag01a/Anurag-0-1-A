@@ -16,9 +16,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-0-1-a&no-bg=true&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="anurag-0-1-a" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-0-1-a&no-bg=true&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact" alt="anurag-0-1-a" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-0-1-a&no-bg=true&show_icons=true&theme=github_dark&locale=en" alt="anurag-0-1-a" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anurag-0-1-a&no-bg=true&show_icons=true&theme=github_dark&hide_border=true&locale=en" alt="anurag-0-1-a" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-0-1-A&theme=github-dark-blue&hide_border=true" alt="anurag-0-1-a" /></p>
 
