@@ -1,4 +1,4 @@
-## Namaste 🙏, 🙋‍♂️ Anurag here.
+## Namaste <img src="https://i.pinimg.com/originals/92/59/8f/92598f86d39965bbc493ce8b3f141d2d.gif" width="45">, 🙋‍♂️ Anurag here.
 Here is my small tech world you have dived in 🏊‍♂️. Learning and exploring different techs currently.
 
 <a href="https://www.linkedin.com/in/anurag01a/" target="_blank" rel="noopener noreferrer"> <img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg width=30px/> 
