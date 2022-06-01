@@ -22,6 +22,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-0-1-A&theme=github-dark-blue&hide_border=true" alt="anurag-0-1-a" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag-0-1-a&no-bg=true" alt="anurag-0-1-a" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag-0-1-a&no-bg=true&no-frame=true" alt="anurag-0-1-a" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-0-1-a&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-0-1-a" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-0-1-a&label=Profile%20views&color=1A58B6&style=flat" alt="anurag-0-1-a" /> </p>
