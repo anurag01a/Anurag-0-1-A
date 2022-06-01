@@ -1,4 +1,4 @@
-<h1 align="center">Namaste 🙏, I'm Anurag</h1>
+<h1 align="center">Namaste <img src="https://i.pinimg.com/originals/92/59/8f/92598f86d39965bbc493ce8b3f141d2d.gif" width="45">, 🙋‍♂️ Anurag here.</h1>
 <h3 align="center">🤖STEM Enthusiast from India</h3>
 
 - 🌱 I’m currently learning **different technologies 🧑‍💻**
